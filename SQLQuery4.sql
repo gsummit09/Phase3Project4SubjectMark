@@ -1,0 +1,6 @@
+SELECT TOP (1000) [ID]
+      ,[Name]
+      ,[SubID]
+      ,[SubName]
+      ,[Mark]
+  FROM [Subject&MarkDB].[dbo].[Marks]
